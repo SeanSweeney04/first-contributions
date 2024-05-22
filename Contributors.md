@@ -44,6 +44,7 @@
 - Preetham (https://github.com/preethamkonuganti)
 - [Dipaloke Biswas](https://github.com/dipaloke)🇧🇩
 - [Yuki](https://github.com/yukuri611)
+- [Sean Sweeney](https://github.com/SeanSweeney04)
 - Dmitriy211
 - [Salman Faris](https://github.com/salmanzego)
 - [Sofiyullahi Jamiu](https://github.com/orpcy)
